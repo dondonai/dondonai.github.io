@@ -10,7 +10,7 @@ collections:
     output: true
 email: adones.kjc@gmail.com
 description: This is going to be my portfolio page.
-baseurl: ''
+baseurl: 
 url: http://dondonai.github.io
 twitter_username: dondonai
 github_username: dondonai
